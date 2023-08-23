@@ -18,7 +18,6 @@
     }
     h1, h2 {
       color: #333;
-      font-family: 'Courier New', monospace;
     }
     p {
       color: #666;
