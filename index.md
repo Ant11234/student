@@ -14,5 +14,5 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 
 
 <html>
-<img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166">
+<img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" width="585" height="884">
 </html>
