@@ -1,4 +1,4 @@
-Calculator
+<!DOCTYPE html>
 <html>
 <head>
   <title>Calculator</title>
