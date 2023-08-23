@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Student Blog</title>
@@ -19,6 +18,7 @@
     }
     h1, h2 {
       color: #333;
+      font-family: 'Courier New', monospace;
     }
     p {
       color: #666;
