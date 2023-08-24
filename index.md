@@ -14,7 +14,7 @@
       margin: 0 auto;
       padding: 20px;
       background-color: #fff;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 2px 5px rgba(255, 0, 0, 0.1);
     }
     h1, h2, h3, h4 {
       color: #333;
@@ -49,7 +49,10 @@
     }
     th:first-child,
     td:first-child {
-      width: 20%;
+      width: 30%;
+    }
+    td:nth-child(2) {
+    width: 70%;
     }
   </style>
 </head>
