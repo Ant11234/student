@@ -48,6 +48,9 @@
       <li><a href="https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae">Hacks (Todo)</a> enable you to stay focused on key class requirements. Each Hack will produce Tangibles.</li>
       <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
     </ul>
+    <h3>Freeform Drawing
+    <h4>Schedule
+    <h5>Header Customization
     <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image">
   </div>
 </body>
