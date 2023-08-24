@@ -16,7 +16,7 @@
       background-color: #fff;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
-    h1, h2 {
+    h1, h2, h3, h4 {
       color: #333;
       font-family: 'Courier New', monospace;
     }
@@ -35,6 +35,18 @@
       max-width: 100%;
       height: auto;
     }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
   </style>
 </head>
 <body>
@@ -48,10 +60,36 @@
       <li><a href="https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae">Hacks (Todo)</a> enable you to stay focused on key class requirements. Each Hack will produce Tangibles.</li>
       <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
     </ul>
-    <h3>Freeform Drawing
-    <h4>Schedule
-    <h5>Header Customization
+    <h3>Freeform Drawing</h3>
     <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image">
+    <h4>Schedule</h4>
+    <table>
+      <tr>
+        <th>Day</th>
+        <th>Activity</th>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td>Study Group</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td>Coding Practice</td>
+      </tr>
+      <tr>
+        <td>Wednesday</td>
+        <td>Project Work</td>
+      </tr>
+      <tr>
+        <td>Thursday</td>
+        <td>Reading</td>
+      </tr>
+      <tr>
+        <td>Friday</td>
+        <td>Review</td>
+      </tr>
+    </table>
+    <h5>Header Customization</h5>
   </div>
 </body>
 </html>
