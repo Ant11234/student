@@ -47,6 +47,10 @@
       padding: 10px;
       text-align: left;
     }
+    th:first-child,
+    td:first-child {
+      width: 20%;
+    }
   </style>
 </head>
 <body>
