@@ -49,7 +49,7 @@
     }
     th:first-child,
     td:first-child {
-      width: 60%;
+      width: 30%;
     }
     th:nth-child(2),
     td:nth-child(2) {
