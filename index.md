@@ -97,6 +97,3 @@
         <td>Off Role</td>
       </tr>
     </table>
-    <h5>My Tools<h5>
-    <p>My tools consistently help me achieve any task I am trying. Whether that be VS Code in order to compile and create my code, GitHub pages to store and present my project, and a Slack account to stay updated on changes in assignments.<p>
-
