@@ -54,7 +54,7 @@
     th:nth-child(2),
     td:nth-child(2) {
       width: 90%; /* Increase the width to three times the current width */
-  }
+    }
   </style>
 </head>
 <body>
@@ -97,7 +97,12 @@
         <td>Off Role</td>
       </tr>
     </table>
-    <h5>Header Customization</h5>
+    <h5>Shell Notes</h5>
+    <p>cd: Used to enter files or paths and lets you backout or leave paths if follwed by ".."<p>
+    <p>ls: Reads of all the files or folders in the current layer of the path you are in.<p>
+    <p>sudo: Uses administrative privlidges for the command that you run.<p>
+    <p>wsl: Lets you run a linux enviorment.<p>
+    <p>git: Administrator interface that allows you to list repositories you have access to.<p>
   </div>
 </body>
 </html>
