@@ -103,6 +103,4 @@
     <p>sudo: Uses administrative privlidges for the command that you run.<p>
     <p>wsl: Lets you run a linux enviorment.<p>
     <p>git: Administrator interface that allows you to list repositories you have access to.<p>
-  </div>
-</body>
-</html>
+
