@@ -51,6 +51,10 @@
     td:nth-child(1) {
       width: 30%;
     }
+    th:nth-child(2),
+    td:nth-child(2) {
+      width: 110%;
+    }
   </style>
 </head>
 <body>
