@@ -53,7 +53,7 @@
     }
     th:nth-child(2),
     td:nth-child(2) {
-      width: 110%;
+      width: 110;
     }
   </style>
 </head>
