@@ -47,8 +47,8 @@
       padding: 10px;
       text-align: left;
     }
-    th:first-child,
-    td:first-child {
+    th:nth-child(1),
+    td:nth-child(1) {
       width: 30%;
     }
   </style>
