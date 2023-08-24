@@ -52,7 +52,7 @@
       width: 30%;
     }
     td:nth-child(2) {
-    width: 70%;
+    width: 140%;
     }
   </style>
 </head>
