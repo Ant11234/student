@@ -53,8 +53,8 @@
     }
     th:nth-child(2),
     td:nth-child(2) {
-      height: 70%;
-    }
+      width: 90%; /* Increase the width to three times the current width */
+  }
   </style>
 </head>
 <body>
