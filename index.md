@@ -51,10 +51,6 @@
     td:first-child {
       width: 30%;
     }
-    th:nth-child(2),
-    td:nth-child(2) {
-      width: 60%;
-    }
   </style>
 </head>
 <body>
