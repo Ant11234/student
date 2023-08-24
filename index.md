@@ -51,6 +51,7 @@
     td:first-child {
       width: 30%;
     }
+    th:nth-child(2),
     td:nth-child(2) {
     width: 140%;
     }
@@ -68,7 +69,7 @@
       <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
     </ul>
     <h3>Freeform Drawing</h3>
-    <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image" height="884" width="585">
+    <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image" height="442" width="292">
     <h4>Schedule</h4>
     <table>
       <tr>
