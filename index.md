@@ -37,7 +37,7 @@
     }
     table {
       border-collapse: collapse;
-      width: 50%;
+      width: 100%%;
       margin-top: 20px;
     }
     table, th, td {
@@ -61,32 +61,32 @@
       <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
     </ul>
     <h3>Freeform Drawing</h3>
-    <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image">
+    <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image", height = 884, width = 585>
     <h4>Schedule</h4>
     <table>
       <tr>
-        <th>Day</th>
-        <th>Activity</th>
+        <th>Period</th>
+        <th>Class</th>
       </tr>
       <tr>
-        <td>Monday</td>
-        <td>Study Group</td>
+        <td>1</td>
+        <td>AP CSA</td>
       </tr>
       <tr>
-        <td>Tuesday</td>
-        <td>Coding Practice</td>
+        <td>2</td>
+        <td>AP English Language</td>
       </tr>
       <tr>
-        <td>Wednesday</td>
-        <td>Project Work</td>
+        <td>3</td>
+        <td>US History</td>
       </tr>
       <tr>
-        <td>Thursday</td>
-        <td>Reading</td>
+        <td>4</td>
+        <td>AP Calc BC</td>
       </tr>
       <tr>
-        <td>Friday</td>
-        <td>Review</td>
+        <td>5</td>
+        <td>Off Role</td>
       </tr>
     </table>
     <h5>Header Customization</h5>
