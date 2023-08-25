@@ -1,8 +1,3 @@
----
-layout: default
-title: Student Blog
----
-
 <html>
 <head>
   <title>Student Blog</title>
