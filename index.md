@@ -3,19 +3,6 @@
   <title>Student Blog</title>
   <style>
     /* Add some basic styling */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f2f2f2;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 2px 5px rgba(255, 0, 0, 0.1);
-    }
     h1, h2, h3, h4 {
       color: #333;
       font-family: 'Courier New', monospace;
