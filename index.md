@@ -14,6 +14,12 @@
       background-color: #fff;
       box-shadow: 0 2px 5px rgba(255, 0, 0, 0.1);
     }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+    }
     p {
       color: #666;
     }
