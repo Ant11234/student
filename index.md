@@ -58,9 +58,18 @@ title: Student Blog
   </style>
 <body>
   <div class="container">
-    <h1>Freeform Drawing</h2>
+    <h1>Build your Home Page here</h1>
+    <p>This is about your journey. Start now!!!</p>
+    <h2>Overview of Hacks, Study and Tangibles</h2>
+    <p>Blogging on GitHub Pages is a way to learn and code simultaneously.</p>
+    <ul>
+      <li>Plans, Lists, <a href="https://clickup.com/blog/scrum-board/">Scrum Boards</a> help you track key events, show progress, and record time. Effort is a big part of your class grade. Show plans and time spent!</li>
+      <li><a href="https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae">Hacks (Todo)</a> enable you to stay focused on key class requirements. Each Hack will produce Tangibles.</li>
+      <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
+    </ul>
+    <h3>Freeform Drawing</h3>
     <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image" height="884" width="585">
-    <h2>Schedule</h2>
+    <h4>Schedule</h4>
     <table>
       <tr>
         <th>Period</th>
