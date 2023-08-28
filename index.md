@@ -40,6 +40,7 @@ title: Student Blog
       width: 100%%;
       margin-top: 20px;
       border: 2px solid black;
+      color: black;
     }
     table, th, td {
       border: 1px solid #ccc;
