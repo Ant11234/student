@@ -62,7 +62,6 @@ title: Student Blog
 <body>
   <div class="container">
     <h1>Anthony Bazhenov's AP CSA Home Page</h1>
-    <p>Skipped CSP now we all the way up- Fat Joe</p>
     <h2>Freeform Drawing</h2>
     <img src="https://github.com/Ant11234/student/assets/40652645/d5013be5-4793-4e36-9aaf-8b7ae74aa166" alt="Student Image" height="884" width="585">
     <h3>Schedule</h3>
