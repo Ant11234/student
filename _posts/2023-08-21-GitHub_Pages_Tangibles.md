@@ -1,7 +1,6 @@
 ---
 toc: true
 comments: true
-hide: true
 layout: post
 title: Review Ticket
 description: Example Review Ticket!!! This will help us communicate results.
