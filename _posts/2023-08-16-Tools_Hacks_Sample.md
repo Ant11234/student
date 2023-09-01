@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: GitHub Overview
-description: Tools and equipment used throughout this class.
+description: An overview of the Github Setup
 courses: { csa: {week: 0} }
 type: hacks
 ---

@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Review Ticket
 description: Tools and equipment used throughout this class.
-courses: { csa: {week: 0} }
+courses: { csa: {week: 1} }
 type: hacks
 ---
 
