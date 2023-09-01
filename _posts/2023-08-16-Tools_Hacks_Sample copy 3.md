@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: More Detail Plan
 description: Tools and equipment used throughout this class.
-courses: { csa: {week: 0} }
+courses: { csp: {week: 0} }
 type: Plans
 ---
 

@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: GitHub Overview
 description: An overview of the Github Setup
-courses: { csa: {week: 0} }
+courses: { csp: {week: 0} }
 type: hacks
 ---
 ## References
