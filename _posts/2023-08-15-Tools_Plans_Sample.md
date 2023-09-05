@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Daily Plan Sample
+title: Week 1 Plan
 description: Example Blog!!!  This shows planning and notes from hacks.
 type: plans
 courses: { csp: {week: 0} }

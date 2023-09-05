@@ -1,0 +1,17 @@
+---
+toc: true
+comments: false
+layout: post
+title: Week 3 Plan
+description: Example Blog!!!  This shows planning and notes from hacks.
+type: plans
+courses: { csp: {week: 2} }
+---
+
+### PBL Unit 1 / Week 2
+Learning outcome.  Installing Tools and showing usage of VSCode.
+- Create a Java Console Game
+- Get Schedule Updated
+- Java Hello
+- Review College Board
+
