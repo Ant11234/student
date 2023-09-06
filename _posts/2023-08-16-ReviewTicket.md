@@ -5,7 +5,7 @@ layout: post
 title: Review Ticket
 description: Tools and equipment used throughout this class.
 courses: { csp: {week: 1} }
-type: hacks
+type: tangibles
 ---
 
 ### Summary of Accomplishments
