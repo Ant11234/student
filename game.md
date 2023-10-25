@@ -2,6 +2,9 @@
 layout: default
 title: Game
 permalink: /game
+description: Game from Cosmic Carnage
+type: plans
+courses: { csa: {week: 9} }
 ---
 <html>
 <head>
