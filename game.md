@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Game
+layout: post
 permalink: /game
 description: Game from Cosmic Carnage
 type: plans
