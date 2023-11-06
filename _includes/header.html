@@ -1,51 +1,75 @@
-<header class="site-header">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <style>
+        /* Add CSS styles to the site header */
+        .site-header {
+            position: relative;
+            background-color: #333; /* Background color */
+            color: #fff; /* Text color */
+            padding: 10px 0; /* Top and bottom padding */
+            overflow: hidden; /* Hide overflowing video */
+        }
 
-  <div id="header">
-    <nav>
-      <ul>
-        <li class="fork"><a href="https://ant11234.github.io/student/">Home</a></li>
-        <li class="fork"><a href="https://ant11234.github.io/student/csa">Schedule</a></li>
-        <li class="fork"><a href="https://ant11234.github.io/student/calculator">Calculator</a></li>
-        <li class="fork"><a href="https://ant11234.github.io/student/blogs">Blogs</a></li>
-        <li class="title"><a href="{{ site.github.repository_url }}#readme">View On GitHub</a></li>
-      </ul>
-    </nav>
-  </div><!-- end header -->
-</header>
+        .site-header video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1; /* Place the video behind other content */
+        }
 
-<style>
-    /* Add CSS styles to the site header */
-  .site-header {
-    background-color: #333; /* Background color */
-    color: #fff; /* Text color */
-    padding: 10px 0; /* Top and bottom padding */
-  }
+        .site-header nav ul {
+            list-style: none; /* Remove default list styles */
+            margin: 0;
+            padding: 0;
+        }
 
-  .site-header nav ul {
-    list-style: none; /* Remove default list styles */
-    margin: 0;
-    padding: 0;
-  }
+        .site-header nav ul li {
+            display: inline-block; /* Display list items inline */
+            margin-right: 20px; /* Add space between list items */
+        }
 
-  .site-header nav ul li {
-    display: inline-block; /* Display list items inline */
-    margin-right: 20px; /* Add space between list items */
-  }
+        .site-header nav ul li a {
+            color: #fff; /* Link color */
+            text-decoration: none; /* Remove underline from links */
+            font-weight: bold; /* Bold text */
+        }
 
-  .site-header nav ul li a {
-    color: #fff; /* Link color */
-    text-decoration: none; /* Remove underline from links */
-    font-weight: bold; /* Bold text */
-  }
+        /* Style the "View On GitHub" link differently */
+        .site-header nav ul li.title a {
+            color: #ffc107; /* Change link color for this specific item */
+        }
 
-  /* Style the "View On GitHub" link differently */
-  .site-header nav ul li.title a {
-    color: #ffc107; /* Change link color for this specific item */
-  }
-
-  /* Add hover effect to links */
-  .site-header nav ul li a:hover {
-    color: #ffc107; /* Change link color on hover */
-  }
-
-</style>
+        /* Add hover effect to links */
+        .site-header nav ul li a:hover {
+            color: #ffc107; /* Change link color on hover */
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+        <video autoplay loop muted>
+            <source src="https://pikbest.com//video/loop-cartoon-shooting-star-speed-line-flashing-animation-video_1561977.html" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div id="header">
+            <nav>
+                <ul>
+                    <li class="fork"><a href="https://ant11234.github.io/student/">Home</a></li>
+                    <li class="fork"><a href="https://ant11234.github.io/student/csa">Schedule</a></li>
+                    <li class="fork"><a href="https://ant11234.github.io/student/calculator">Calculator</a></li>
+                    <li class="fork"><a href="https://ant11234.github.io/student/blogs">Blogs</a></li>
+                    <li class="title"><a href="{{ site.github.repository_url }}#readme">View On GitHub</a></li>
+                </ul>
+            </nav>
+        </div><!-- end header -->
+    </header>
+    <!-- Your page content goes here -->
+</body>
+</html>
