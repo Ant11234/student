@@ -7,57 +7,40 @@
     <style>
         /* Add CSS styles to the site header */
         .site-header {
-            position: relative;
             background-color: #333; /* Background color */
             color: #fff; /* Text color */
             padding: 10px 0; /* Top and bottom padding */
-            overflow: hidden; /* Hide overflowing video */
-        }
-
-        .site-header video {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            z-index: -1; /* Place the video behind other content */
         }
 
         .site-header nav ul {
             list-style: none; /* Remove default list styles */
             margin: 0;
             padding: 0;
+            text-align: center; /* Center-align the navigation items */
         }
 
         .site-header nav ul li {
             display: inline-block; /* Display list items inline */
-            margin-right: 20px; /* Add space between list items */
+            margin: 0 10px; /* Add space around list items */
         }
 
         .site-header nav ul li a {
             color: #fff; /* Link color */
             text-decoration: none; /* Remove underline from links */
             font-weight: bold; /* Bold text */
+            padding: 5px 10px; /* Add padding to the links */
+            background-color: #ffc107; /* Background color for links */
+            border-radius: 5px; /* Rounded corners */
+            transition: background-color 0.3s; /* Smooth hover effect */
         }
 
-        /* Style the "View On GitHub" link differently */
-        .site-header nav ul li.title a {
-            color: #ffc107; /* Change link color for this specific item */
-        }
-
-        /* Add hover effect to links */
         .site-header nav ul li a:hover {
-            color: #ffc107; /* Change link color on hover */
+            background-color: #333; /* Change background color on hover */
         }
     </style>
 </head>
 <body>
     <header class="site-header">
-        <video autoplay loop muted>
-            <source src="https://pikbest.com//video/loop-cartoon-shooting-star-speed-line-flashing-animation-video_1561977.html" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
         <div id="header">
             <nav>
                 <ul>
