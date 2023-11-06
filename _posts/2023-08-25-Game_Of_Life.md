@@ -3,7 +3,7 @@ title: Game of Life
 layout: post
 description: A remix of Conway's game of life using timer, onclick and algorithms.
 tags: [javascript]
-courses: { csp: {week: 0} }
+courses: { csa: {week: 2} }
 type: hacks
 ---
 

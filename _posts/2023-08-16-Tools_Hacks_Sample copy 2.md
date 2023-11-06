@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: My Tools
 description: Tools and equipment used throughout this class.
-courses: { csp: {week: 0} }
+courses: { csa: {week: 0} }
 type: hacks
 ---
 
